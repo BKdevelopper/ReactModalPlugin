@@ -1,6 +1,6 @@
 {
   "name": "modal-component-library-p14",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": false,
   "main": "dist/modal.js",
   "module": "dist/modal.js",
