@@ -6,9 +6,9 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 
 - [@BKdevelopper](https://github.com/BKdevelopper)
 
-## Demo
+## Screen
 
-![demo gif](https://user-images.githubusercontent.com/72107589/149371773-01322567-8701-43f6-b0f5-940a84859318.gif)
+![Default modal](./src/lib/assets/screen.png)
 
 ## Installation
 
@@ -21,8 +21,9 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 Import Modal component from "modal-component-library" where you want to use this.
 
 ```jsx
-import React from "react";
+import React, { useState } from "react";
 import ModalComponent from "modal-component-library-p14";
+
 function App() {
   const [ModalIsVisible, setModalIsVisible] = useState(false)
   const closeModal = () => { setModalIsVisible(false) }
