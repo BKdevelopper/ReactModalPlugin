@@ -18,7 +18,7 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 
 ## Usage
 
-Import Modal component from "modal-component-library" where you want to use this.
+Import Modal component from "modal-component-library" where you want to use this
 
 ```jsx
 import React, { useState } from "react";
