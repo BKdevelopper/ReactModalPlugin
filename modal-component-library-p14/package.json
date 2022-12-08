@@ -1,6 +1,11 @@
 {
-  "name": "modal-component-library",
+  "name": "modal-component-library-p14",
   "version": "0.1.0",
+  "private": false,
+  "main": "dist/modal.js",  
+  "module": "dist/modal.js",  
+  "files": [ "dist", "README.md" ],  
+  "repository": {    "type": "git",    "url": "https://github.com/BKdevelopper/ReactModalPlugin.git"  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.5",
@@ -35,10 +40,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+  "devDependencies": {    
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
@@ -48,9 +50,6 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "main": "dist/index.js",  
-  "module": "dist/index.js",  
-  "files": [ "dist", "README.md" ],  
-  "repository": {    "type": "git",    "url": "URL_OF_YOUR_REPOSITORY"  }
+  }
+
 }

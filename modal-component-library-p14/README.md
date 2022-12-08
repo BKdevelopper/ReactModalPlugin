@@ -13,7 +13,7 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 ## Installation
 
 ```bash
-    npm i modal-component-library
+    npm i modal-component-library-p14
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Import Modal component from "modal-component-library" where you want to use this
 
 ```jsx
 import React from "react";
-import ModalComponent from "modal-component-library";
+import ModalComponent from "modal-component-library-p14";
 function App() {
   const [ModalIsVisible, setModalIsVisible] = useState(false)
   const closeModal = () => { setModalIsVisible(false) }
