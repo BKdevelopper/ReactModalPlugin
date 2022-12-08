@@ -8,7 +8,7 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 
 ## Screen
 
-![img](./src/lib/asset/screen.png)
+![img](https://github.com/BKdevelopper/ReactModalPlugin/blob/main/modal-component-library-p14/src/lib/asset/screen.PNG)
 
 ## Installation
 
