@@ -41,5 +41,5 @@ function App() {
 | Name            | Type          | Required | Description                                                              |
 | --------------- | ------------- | -------- | ------------------------------------------------------------------------ |
 | visible         | `boolean`     | `true`   | Display the modal                                                        |
-| closeBtnContent | `func`        | `true`   | The function to close the modal                                          |
+| closeButton     | `func`        | `true`   | The function to close the modal                                          |
 | text            | `string`      | `true`   | Message to show                                                          |
