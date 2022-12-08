@@ -8,7 +8,7 @@ Modal component library is a modal library. It's goal is to provide easy, flexib
 
 ## Screen
 
-![Default modal](./src/lib/asset/screen.png)
+![screen](./src/lib/asset/screen.png)
 
 ## Installation
 
