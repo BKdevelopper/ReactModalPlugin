@@ -1,6 +1,6 @@
 {
   "name": "modal-component-library-p14",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Modal-component-library-p14 is a modal library",
   "private": false,
   "main": "dist/modal.js",
