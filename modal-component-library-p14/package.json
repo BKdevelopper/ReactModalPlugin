@@ -1,13 +1,23 @@
 {
   "name": "modal-component-library-p14",
   "version": "0.3.0",
+  "description": "Modal-component-library-p14 is a modal library",
   "private": false,
   "main": "dist/modal.js",
   "module": "dist/modal.js",
+  "keywords": [
+		"react",
+		"modal",
+		"library"
+	],
   "files": [
     "dist",
     "README.md"
   ],
+  "author": {
+		"name": "Bilal KEZADRI",
+		"email": "bilalkez@gmail.com"
+	},
   "repository": {
     "type": "git",
     "url": "https://github.com/BKdevelopper/ReactModalPlugin.git"
